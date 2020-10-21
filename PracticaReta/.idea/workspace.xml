@@ -60,7 +60,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectId" id="1iwKA7a8UvMzODNEdKE2H1CrTv5" />
+  <component name="ProjectId" id="1jArU1CrRA7jRU67wfSLFKO0qOs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
@@ -71,16 +71,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="OverrideImplement.combined" value="false" />
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Examen1" />
+    <property name="recentsLimit" value="5" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -110,7 +111,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="sample.Main" />
-      <module name="Cadenas" />
+      <module name="PracticaReta" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -184,33 +185,25 @@
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="635" height="178" key="GridCell.Tab.0.bottom" timestamp="1602817859361">
+    <state x="462" y="117" key="FileChooserDialogImpl" timestamp="1603261489371">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="635" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602817859361" />
-    <state width="635" height="178" key="GridCell.Tab.0.center" timestamp="1602817859360">
+    <state x="462" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603261489371" />
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom" timestamp="1603265373520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="635" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602817859360" />
-    <state width="635" height="178" key="GridCell.Tab.0.left" timestamp="1602817859360">
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603265373520" />
+    <state width="1321" height="176" key="GridCell.Tab.0.center" timestamp="1603265373520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="635" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602817859360" />
-    <state width="635" height="178" key="GridCell.Tab.0.right" timestamp="1602817859360">
+    <state width="1321" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603265373520" />
+    <state width="1321" height="176" key="GridCell.Tab.0.left" timestamp="1603265373519">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="635" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602817859360" />
-    <state x="528" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1603256229278">
+    <state width="1321" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603265373519" />
+    <state width="1321" height="176" key="GridCell.Tab.0.right" timestamp="1603265373520">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="528" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1603256229278" />
-    <state x="129" y="64" key="new project wizard" timestamp="1603257747501">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="129" y="64" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1603257747501" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1602815049778">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1602815049778" />
+    <state width="1321" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603265373520" />
   </component>
 </project>
